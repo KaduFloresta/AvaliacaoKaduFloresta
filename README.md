@@ -20,16 +20,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-cefloresta1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cefloresta1@gmail.com)](mailto:cefloresta1@gmail.com)
 
 <hr>
-<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2020</h5> 
+<a href="https://portal.sc.senac.br/portal/site/descontos-e-bolsas/senac-joinville"><img src="https://github.com/KaduFloresta/JavaScript_WebSite/raw/master/img/senac.png" alt="drawing" width="200"/></a><h5>Análise e Desenvolvimento de Sistemas - Senac 2019</h5> 
 
 ---
-
+# Avaliação JAVA - Ordenação.
 ## Instruções
-Criar um sistema que:
 
-- Importar dados em .txt.
-- Converta a string para Int.
-- Faça a Ordenação. 
-- Imprima em tela o Processo (Insertion Sort).
-- Crie uma Collection.
-- Exporte dados ordenados em .txt.
+Criar um programa que faça o seguinte:
+
+- [X] Importar dados em .txt.
+- [X] Converta a string para Int.
+- [X] Faça a Ordenação. 
+- [X] Imprima em tela o Processo (Insertion Sort).
+- [X] Crie uma Collection.
+- [X] Exporte dados ordenados em .txt.
+
+---
